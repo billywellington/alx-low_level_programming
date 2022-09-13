@@ -18,11 +18,6 @@ int main(void)
 		if ((a % 3) == 0 || (a % 5) == 0)
 			b += a;
 	}
-<<<<<<< HEAD
-
-	printf("%d\n", z);
-=======
 	printf("%d\n", b);
->>>>>>> 7adce8d3683b21923d581bdae60df169ea6b8ba9
 	return (0);
 }
