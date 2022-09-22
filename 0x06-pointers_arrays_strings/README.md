@@ -2,11 +2,13 @@
 Project done during **Software Engineering studies** at **ALX**. It aims to learn about pointers and arrays in **C language**.
 
 ## Technologies
-* C files are compiled using `gcc 4.8.4`
-* C files are written according to the C90 standard
-* Tested on Ubuntu 14.04 LTS
+* C files are compiled using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
+* Allowed editors: vi, vim, emacs
+* Tested on Ubuntu 20.04 LTS
 
 ## Files
+All code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
+The prototypes of all the functions and the prototype of the function _putchar to be included in the header file called main.h
 All of the following files are programs written in C:
 
 | Filename | Description |
