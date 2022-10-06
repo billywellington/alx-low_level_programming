@@ -8,6 +8,12 @@
  * 
  * Return: 0 ALways (Success)
  */
+<<<<<<< HEAD
+=======
+int main(int argc, __attribute__((unused)) char *argv[])
+{
+	printf("%d\n", argc - 1);
+>>>>>>> 75cf89588cd9e65fef33e8f51833035572cb75c4
 
 int main(int argc, char *argv[] __attribute__((unused)))
 {
